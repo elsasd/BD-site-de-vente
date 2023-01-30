@@ -1,0 +1,1071 @@
+id_label;nom
+1;Pouilly-Fumé AOC
+2;Médoc AOC
+3;Gaillac AOP
+4;Terres du Midi IGP
+5;Pays d'Oc IGP
+6;Alpes de Haute-Provence IGP
+7;Lirac AOC
+8;Côtes de Gascogne IGP
+9;Pierrevert AOC
+10;Bordeaux AOC
+11;Puglia IGP
+12;Côtes du Rhône AOC
+13;Vin de France
+14;San Juan
+15;Var IGP
+16;Saumur Puy-Notre-Dame AOC
+17;Central Valley
+18;Ile de Beauté IGP
+19;Carcassonne IGP
+20;Rasteau AOC
+21;Brouilly AOC
+22;Saint-Estèphe AOC
+23;Montagne Saint-Emilion AOC
+24;La Mancha DO
+25;Rioja DO
+26;Barbera d'Alba DOCG
+27;Côtes de Provence AOP
+28;Coteaux Varois AOC
+29;Marlborough
+30;Graves AOC
+31;Rioja DOC
+32;Cabardès AOC
+33;Blaye - Côtes de bordeaux AOC
+34;Médoc AOP
+35;Navarra DO
+36;Vaucluse Principauté d'Orange IGP
+37;Saumur AOC
+38;Valencia DO
+39;Moulin à Vent AOC
+40;St Nicolas de Bourgueil AOC
+41;Maury sec AOC
+42;Beaumes de Venise AOC
+43;Minervois AOP
+44;Méditerranée IGP
+45;Côtes Catalanes IGP
+46;Côtes de Provence AOC
+47;Vaucluse IGP
+48;Mâcon-La Roche Vineuse AOC
+49;Costières de Nîmes AOC
+50;Saint-Emilion Grand Cru AOC
+51;Haut-Médoc AOC
+52;Sancerre AOC
+53;Cévennes IGP
+54;Saint Bris AOC
+55;Almansa DOP
+56;Pessac-Léognan AOC
+57;Valpolicella Classico DOC
+58;Gard IGP
+59;Chianti Classico DOCG
+60;Entre-Deux-Mers AOC
+61;Chorey-Lès-Beaune
+62;Touraine AOC
+63;Vacqueyras AOC
+64;Collines Rhodaniennes IGP
+65;Blaye - Côtes de bordeaux
+66;Vallée de Uco Mendoza
+67;Sicilia DOC
+68;Pic-Saint-Loup AOC
+69;Passetoutgrain AOP
+70;Côtes du Rhône Villages AOC
+71;Douro DOC
+72;Vallée de Curico
+73;Principauté d'Orange IGP
+74;Chablis AOC
+75;Luberon AOC
+76;Côtes de Provence Sainte-Victoire AOC
+77;Bourgogne AOC
+78;Montepulciano DOC
+79;Saumur Champigny AOC
+80;Cabernet d'Anjou AOC
+81;Coastal Region
+82;Châteauneuf-du-Pape AOC
+83;Côtes du Roussillon Villages AOC
+84;Côtes de Bourg AOC
+85;Ventoux AOC
+86;Pernand-Vergelesses AOC
+87;Mâcon AOC
+88;Ardèche IGP
+89;Fitou AOP
+90;Puglia DOC
+91;Californie
+92;Anjou AOC
+93;Côtes de Provence Cru Classé AOC
+94;Saint-Véran AOC
+95;Petit Chablis AOC
+96;Côtes du Rhône Villages
+97;San Severo DOC
+98;Cairanne AOC
+99;Coteaux Bourguignons AOC
+100;Bergerac AOC
+101;Gaillac AOC
+102;Barolo DOCG
+103;Bourgogne Aligoté AOP
+104;Saint-Péray AOC
+105;Chorey-Lès-Beaune AOC
+106;Western Cape
+107;South Eastern Australia
+108;Alsace AOC
+109;Côtes du Roussillon Villages AOP
+110;Meursault AOC
+111;Bordeaux Supérieur AOC
+112;Carinena DO
+113;Jumilla
+114;Maranges 1er Cru AOC
+115;Côtes du Roussillon AOC
+116;Alpilles IGP
+117;Savigny Les Beaune AOC
+118;Bourgueil AOC
+119;Beaujolais Villages AOC
+120;Sauternes AOC
+121;Gigondas
+122;Clos de Vougeot Grand Cru AOC
+123;Languedoc AOC
+124;Margaux AOC
+125;Crozes-Hermitage AOC
+126;Catalogne DO
+127;Saint-Amour AOC
+128;Chassagne Montrachet AOC
+129;Côtes de Duras AOC
+130;Pouilly-Fuissé AOC
+131;Coteaux de Béziers IGP
+132;Chablis AOP
+133;Corbieres AOP
+134;Toro DO
+135;Côte-Rôtie AOC
+136;Saint-Joseph AOC
+137;Hautes Côtes de Nuits AOC
+138;Hermitage AOC
+139;Hérault IGP
+140;Muscadet Sèvre et Maine AOC
+141;Nero d'Avola DOC
+142;Duché d'Uzès AOC
+143;Corton Charlemagne AOC
+144;Morellino di Scansano DOCG
+145;Pauillac AOC
+146;Meursault 1er Cru AOC
+147;Bandol AOC
+148;Fronton AOC
+149;Moulis AOC
+150;Bordeaux Clairet AOC
+151;Chablis 1er cru AOC
+152;Touraine AOP
+153;Barsac AOC
+154;Gevrey Chambertin AOC
+155;Saint-Emilion 1er Grand Cru Classé AOC
+156;Ribera del Jucar DO
+157;Condrieu AOC
+158;Saint-Julien AOC
+159;Moscato d’Asti DOCG
+160;Bourgogne Chitry AOP
+161;Vosne Romanée 1er Cru AOC
+162;Corton Grand Cru AOC
+163;Menetou-salon AOC
+164;Mâcon-Chaintré AOC
+165;Cornas AOC
+166;Beaune 1er cru AOC
+167;Bourgogne Aligoté AOC
+168;Languedoc AOP
+169;mosel
+170;Mercurey AOC
+171;Maury doux AOC
+172;Corbières Boutenac AOP
+173;Ribera del Duero DO
+174;Aloxe Corton AOC
+175;Pays d'Oc AOP
+176;Savennières AOP
+177;Lalande de Pomerol AOC
+178;Nuits Saint Georges AOC
+179;Côte de Brouilly AOC
+180;Chinon AOC
+181;Côte-Rôtie AOP
+182;Chassagne-Montrachet 1er Cru AOC
+183;Terrasses du Larzac AOC
+184;Pernand-Vergelesses 1er Cru AOC
+185;Marsannay AOC
+186;Brunello di Montalcino DOCG
+187;Coulée de Serrant AOC AOC
+188;Côtes de Provence Cru Classé AOP
+189;Collines Rhodaniennes AOC
+190;Côte Roannaise AOC
+191;Saint-Guilhem-le-Désert IGP
+192;Morgon AOC
+193;Chiroubles AOP
+194;Cahors AOC
+195;Côtes de Thongue IGP
+196;Rivesaltes AOC
+197;Maranges AOC
+198;Pomerol AOC
+199;Givry 1er Cru AOC
+200;Pouilly-Vinzelles AOC
+201;Gigondas AOC
+202;Tavel AOC
+203;Vouvray AOC
+204;Savoie AOC
+205;Rully AOC
+206;Bordeaux Supérieur AOP
+207;Collines Rhodaniennes
+208;Hautes Côtes de Beaune AOC
+209;Côtes du Rhône Villages AOP
+210;Jurançon AOC
+211;Faugères AOC
+212;Slavonie
+213;Chignin-Bergeron AOC
+214;Alsace Grand Cru AOC
+215;Côtes du Jura AOC
+216;Mercurey 1er cru AOC
+217;Montagny 1er Cru AOC
+218;Puligny-Montrachet AOC
+219;Chianti Classico Riserva
+220;Coteaux du Layon AOC
+221;Arbois AOC
+222;Rias Baixas DO
+223;Stellenbosch
+224;Château-Chalon AOC
+225;Languedoc-Quartouze AOC
+226;Viré-Clessé AOC
+227;Amarone Della Valpolicella Classico DOCG
+228;Rueda DO
+229;Savigny Les Beaune 1er Cru AOC
+230;Alto Adige DOC
+231;Allobroges IGP
+232;Mâcon-Lugny AOC
+233;Langhe DOC
+234;Weinviertel DAC
+235;Chignin-Bergeron AOP
+236;Chignin AOC
+237;Amarone Della Valpolicella DOCG
+238;Pommard AOC
+239;Morey St Denis AOC
+240;Falerio DO
+241;Bierzo
+242;Tokay, tokaj
+243;Morey Saint Denis 1er Cru AOC
+244;Macvin AOC
+245;Pommard 1er Cru AOC
+246;Grands Echezeaux AOC
+247;Lussac Saint-Emilion AOC
+248;Coteaux du Layon Beaulieu AOC
+249;Condrieu AOP
+250;Côtes de Gascogne VDP
+251;Santenay AOC
+252;Julienas AOC
+253;Saint-Aubin 1er Cru AOC
+254;Figari AOP
+255;Genève AOC
+256;Côtes Catalanes AOC
+257;Monthelie AOC
+258;Saint-Péray AOP
+259;Aude Hauterive IGP
+260;Meknés
+261;Val de Loire IGP
+262;Valle de Guadalupe
+263;Mc Laren Vale
+264;Limoux AOP
+265;Fronsac AOC
+266;Collines Rhodaniennes VDP
+267;Grès de Montpellier Coteaux du Languedoc AOC
+268;Toscana IGT
+269;Ribeira Sacra DO
+270;Saint-Chinian AOC
+271;Irouleguy AOC
+272;Saint-Joseph AOP
+273;Patrimonio AOC
+274;Saint-Romain AOC
+275;Côtes du Roussillon AOP
+276;Castillon - Côtes de Bordeaux
+277;Beaujolais AOC
+278;Pouilles
+279;Barbaresco DOCG
+280;La Clape AOC
+281;Mâcon-Villages AOC
+282;La Clape AOP
+283;Galilée
+284;Madiran AOC
+285;Bouzeron AOC
+286;Lolol
+287;Napa Valley
+288;Coteaux de l'Aubance AOC
+289;Savennières AOC
+290;Barossa Valley
+291;Crémant de Limoux AOC
+292;Puisseguin St Emilion AOC
+293;Volnay 1er Cru
+294;Côtes du Vivarais AOC
+295;Irancy AOC
+296;Châteauneuf-du-Pape AOP
+297;Savennières Roche aux Moines AOC
+298;Roussette de Savoie AOC
+299;Rosso Di Toscana IGT
+300;Côtes du Roussillon Les Aspres AOC
+301;Quincy AOC
+302;Punta del Este, Garzon
+303;Givry AOC
+304;Côtes de Bordeaux AOC
+305;Crozes-Hermitage AOP
+306;Val de Montferrand IGP
+307;Chambertin AOC
+308;Pouilly-Fumé AOP
+309;Santenay 1er cru AOC
+310;Collioure AOC
+311;Mâcon-Vinzelles AOC
+312;Meursault
+313;Roussette de Savoie AOP
+314;Madiran AOP
+315;Minervois AOC
+316;Mâcon Villages AOC
+317;Sartene AOC
+318;Pyrénées-Orientales VDP
+319;Vinho Verde DOC
+320;Taurasi Riserva DOCG
+321;Cahors AOP
+322;Vin de France IGP
+323;Puligny-Montrachet 1er cru AOC
+324;Valle de la Orotava DO
+325;Alicante DO
+326;Venezia DOC
+327;Fleurie AOC
+328;Quarts de Chaume AOC
+329;Valpolicella Ripasso DOCG
+330;Vin de pays de l'Hérault
+331;Coteaux du Salagou IGP
+332;Allobrogie IGP
+333;Kamptal
+334;Mâcon Fuissé AOC
+335;Minervois-la-Livinière AOP
+336;Bourgogne Côte d'Or AOC
+337;Chambolle-Musigny AOC
+338;Saint-Emilion AOC
+339;Muscadet AOC
+340;Volnay AOC
+341;Pouilly sur Loire AOC
+342;Coteaux d'Aix en Provence AOC
+343;Grignan les Adhemar AOC
+344;Palette AOC
+345;Cheverny AOC
+346;Vallée de l'Oronte
+347;Montlouis sur Loire AOP
+348;Priorat DOC
+349;Auxey-Duresses 1er cru AOC
+350;Monthélie 1er cru AOC
+351;Cassis AOP
+352;Monbazillac AOC
+353;Castillon - Côtes de Bordeaux AOC
+354;Pacherenc du Vic Bihl AOC
+355;Vallée de Uco
+356;Volnay 1er Cru AOC
+357;Riesling
+358;Barbera d'Alba DOC
+359;Cadillac - Côtes de Bordeaux AOC
+360;Côtes du Rhône AOP
+361;Picpoul de Pinet AOP
+362;Morgon AOP
+363;Muscat de Beaumes de Venise AOC
+364;Bandol AOP
+365;Côte de Nuits-Villages AOC
+366;Valpolicella Classico DOCG
+367;Aconcagua Valley
+368;Terre Siciliane IGP
+369;Chiroubles AOC
+370;Vigneti delle Dolomiti IGP
+371;Terrasses du Larzac IGP
+372;South Australia
+373;Bullas DO
+374;Cabardès AOP
+375;Listrac-Médoc AOC
+376;Penedès DO
+377;Hérault VDP
+378;Beaujolais
+379;Fixin AOC
+380;Sonoma Valley
+381;Kistauri
+382;Seyssel AOC
+383;Pacherenc du Vic-Bilh Sec AOP
+384;Cafayate
+385;Vallée de Colchagua
+386;Auxey-Duresses AOC
+387;Alsace
+388;Casablanca DO
+389;Côtes du Brian IGP
+390;Cerasuolo di Vittoria DOCG
+391;Neuchâtel DOC
+392;Banyuls AOC
+393;Mosel
+394;Mâcon-Verzé AOC
+395;Coteaux du Giennois AOC
+396;Cour-Cheverny AOC
+397;Côtes du Forez AOC
+398;Istrie
+399;Coteaux de Béziers AOC
+400;Morellino di Scansano Riserva DOCG
+401;Priorat
+402;Adelaide Hills
+403;Reuilly AOP
+404;Vinsobres AOC
+405;Muscat de Rivesaltes AOC
+406;Montlouis sur Loire AOC
+407;Vaucluse VDP
+408;Valais DOC
+409;Côte de Brouilly AOP
+410;Taurasi DOCG
+411;Montpeyroux Coteaux du Languedoc AOC
+412;Ermitage AOC
+413;Txakoli de Álava DO
+414;Pacherenc du Vic Bihl AOP
+415;Savoie-Bugey
+416;Bordeaux AOP
+417;Fleurie
+418;Bierzo DO
+419;Urfé IGP
+420;Vin de Savoie AOC
+421;Rivesaltes AOP
+422;Saint-Chinian
+423;Chablis Grand Cru AOC
+424;Oregon
+425;Paso Robles
+426;Sicilia IGT
+427;Costières de Nîmes AOP
+428;Itata DO
+429;Wachau DAC
+430;Mallorca IGP
+431;Touraine ambroise AOP
+432;Picpoul de Pinet AOC
+433;Mâcon-Pierreclos AOC
+434;Coteaux d'Aix en Provence AOP
+435;Vallée de l'Aconcagua
+436;Toscane IGT
+437;Canton du Valais
+438;Madrid DO
+439;Anjou AOP
+440;Medimurskog vinogorja
+441;Terra Alta
+442;Greco Di Tufo DOCG
+443;Pyrénées
+444;Plateau du Golan
+445;SANT' ANTIMO DOC
+446;Coster Del Segre DO
+447;Vosne Romanée AOC
+448;Richebourg AOC
+449;Charmes Chambertin Grand Cru AOC
+450;Latricières Chambertin AOC
+451;Vin de Savoie
+452;Roussette de Savoie
+453;Montrachet Grand Cru AOC
+454;Vallée de Aconcagua
+455;Pfalz
+456;Clos de Tart Grand Cru AOC
+457;Gevrey Chambertin 1er cru AOC
+458;Murfatlar
+459;Franciacorta DOCG
+460;Nuits Saint Georges 1er Cru AOC
+461;Bot River Valley
+462;Bekaa Valley
+463;Clairette du Languedoc Adissan AOP
+464;Eden Valley
+465;Péloponnèses
+466;Vistalba Mendoza
+467;Cape South Coast
+468;Rosé de Loire AOC
+469;Rully 1er cru AOC
+470;Clos de la Roche Grand Cru AOC
+471;Chénas AOC
+472;Swartland
+473;Washington
+474;Montsant
+475;Clos des Lambrays Grand Cru AOC
+476;Fiano di Avellino DOCG
+477;Marcillac AOP
+478;Chambolle-Musigny 1er Cru AOC
+479;Mosel Saar
+480;Chambertin-Clos de Bèze AOC
+481;Chevalier-Montrachet AOC
+482;Limari Valley DO
+483;Clos de la Roche AOC
+484;Côte de Beaune AOC
+485;Chianti DOCG
+486;Bonnes-Mares Grand Cru AOC
+487;Puente Alto
+488;Les Baux de Provence AOC
+489;Cornas AOP
+490;Côtes de Provence La Londe AOP
+491;Bolgheri
+492;Sonoma County
+493;Corton Vergennes Grand Cru AOC
+494;Dolcetto d'Alba DOC
+495;Russian River Valley
+496;Atacama DO
+497;Toscane
+498;Echezeaux AOC
+499;Pays des Maures IGP
+500;Toscana
+501;Jasnières AOC
+502;Vin de France AOC
+503;Beaune 1er cru
+504;Franc - Côtes de Bordeaux AOC
+505;Rheingau
+506;Brouilly
+507;Central Otago
+508;Barolo DO
+509;Côte de Brouilly
+510;Côteaux du Loir AOC
+511;Corton-Pougets Grand Cru AOC
+512;Clos Saint-Denis AOC
+513;Chianti Classico Gran Selezione DOCG
+514;Bienvenue Batard Montrachet AOC
+515;Vino de la terra de Castilla y Leon
+516;Côtes de Provence La Londe AOC
+517;Bâtard-Montrachet Grand Cru AOC
+518;Rio Negro
+519;Mendoza
+520;NorthGate Brewing 
+521;Against the Grain Brewery
+522;Jack's Abby Craft Lagers
+523;Mike Hess Brewing Company
+524;Fort Point Beer Company
+525;COAST Brewing Company
+526;Great Divide Brewing Company
+527;Tapistry Brewing
+528;Big Lake Brewing
+529;The Mitten Brewing Company
+530;Brewery Vivant
+531;Petoskey Brewing
+532;Blackrocks Brewery
+533;Perrin Brewing Company
+534;Witch's Hat Brewing Company
+535;Founders Brewing Company
+536;Flat 12 Bierwerks
+537;Tin Man Brewing Company
+538;Black Acre Brewing Co.
+539;Brew Link Brewing
+540;Bare Hands Brewery
+541;Three Pints Brewing
+542;Four Fathers Brewing 
+543;Indiana City Brewing
+544;Burn 'Em Brewing
+545;Sun King Brewing Company
+546;Evil Czech Brewery
+547;450 North Brewing Company
+548;Taxman Brewing Company
+549;Cedar Creek Brewery
+550;SanTan Brewing Company
+551;Boulevard Brewing Company
+552;James Page Brewing Company
+553;The Dudes' Brewing Company
+554;Ballast Point Brewing Company
+555;Anchor Brewing Company
+556;Figueroa Mountain Brewing Company
+557;Avery Brewing Company
+558;Twisted X Brewing Company
+559;Gonzo's BiggDogg Brewing
+560;Big Muddy Brewing
+561;Lost Nation Brewing
+562;Rising Tide Brewing Company
+563;Rivertowne Brewing Company
+564;Revolution Brewing Company
+565;Tallgrass Brewing Company
+566;Sixpoint Craft Ales
+567;White Birch Brewing
+568;Firestone Walker Brewing Company
+569;SweetWater Brewing Company
+570;Flying Mouse Brewery
+571;Upslope Brewing Company
+572;Pipeworks Brewing Company
+573;Bent Brewstillery
+574;Flesk Brewing Company
+575;Pollyanna Brewing Company
+576;BuckleDown Brewing
+577;Destihl Brewery
+578;Summit Brewing Company
+579;Latitude 42 Brewing Company
+580;4 Hands Brewing Company
+581;Surly Brewing Company
+582;Against The Grain Brewery
+583;Crazy Mountain Brewing Company
+584;SlapShot Brewing Company
+585;Mikerphone Brewing
+586;Freetail Brewing Company
+587;3 Daughters Brewing
+588;Red Shedman Farm Brewery and Hop...
+589;Appalachian Mountain Brewery
+590;Birdsong Brewing Company
+591;Union Craft Brewing
+592;Atwater Brewery
+593;Ale Asylum
+594;Two Brothers Brewing Company
+595;Bent Paddle Brewing Company
+596;Bell's Brewery
+597;Blue Owl Brewing
+598;Speakasy Ales & Lagers
+599;Black Tooth Brewing Company
+600;Hopworks Urban Brewery
+601;Epic Brewing
+602;New Belgium Brewing Company
+603;Sierra Nevada Brewing Company
+604;Keweenaw Brewing Company
+605;Brewery Terra Firma
+606;Grey Sail Brewing Company
+607;Kirkwood Station Brewing Company
+608;Goose Island Brewing Company
+609;Broad Brook Brewing LLC
+610;The Lion Brewery
+611;Madtree Brewing Company
+612;Jackie O's Pub & Brewery
+613;Rhinegeist Brewery
+614;Warped Wing Brewing Company
+616;Catawba Valley Brewing Company
+617;Tröegs Brewing Company
+618;Mission Brewery
+619;Christian Moerlein Brewing Company
+620;West Sixth Brewing
+621;Coastal Extreme Brewing Company
+622;King Street Brewing Company
+623;Beer Works Brewery
+624;Lone Tree Brewing Company
+625;Four String Brewing Company
+626;Glabrous Brewing Company
+627;Bonfire Brewing Company
+628;Thomas Hooker Brewing Company
+629;Woodstock Inn, Station & Brewery
+630;Renegade Brewing Company
+631;Mother Earth Brew Company
+632;Black Market Brewing Company
+633;Vault Brewing Company
+634;Jailbreak Brewing Company
+635;Smartmouth Brewing Company
+636;Base Camp Brewing Co.
+637;Alameda Brewing
+638;Southern Star Brewing Company
+639;Steamworks Brewing Company
+640;Horny Goat Brew Pub
+641;Cheboygan Brewing Company
+642;Center of the Universe Brewing C...
+643;Ipswich Ale Brewery
+644;Griffin Claw Brewing Company
+645;Karbach Brewing Company
+646;Uncle Billy's Brewery and Smokeh...
+647;Deep Ellum Brewing Company
+648;Real Ale Brewing Company
+649;Straub Brewery
+650;Shebeen Brewing Company
+651;Stevens Point Brewery
+652;Weston Brewing Company
+653;Southern Prohibition Brewing Com...
+654;Minhas Craft Brewery
+655;Pug Ryan's Brewery
+656;Hops & Grains Brewing Company
+657;Sietsema Orchards and Cider Mill
+659;Core Brewing & Distilling Company
+660;Independence Brewing Company
+661;Cigar City Brewing Company
+662;Third Street Brewhouse
+663;Narragansett Brewing Company
+664;Grimm Brothers Brewhouse
+665;Cisco Brewers
+666;Angry Minnow
+667;Platform Beer Company
+668;Odyssey Beerwerks
+669;Lonerider Brewing Company
+670;Oakshire Brewing
+671;Fort Pitt Brewing Company
+672;Tin Roof Brewing Company
+673;Three Creeks Brewing
+674;2 Towns Ciderhouse
+675;Caldera Brewing Company
+676;Greenbrier Valley Brewing Company
+677;Phoenix Ale Brewery
+678;Lumberyard Brewing Company
+679;Uinta Brewing Company
+680;Four Peaks Brewing Company
+681;Martin House Brewing Company
+682;Right Brain Brewery
+683;Sly Fox Brewing Company
+684;Round Guys Brewing
+685;Great Crescent Brewery
+686;Oskar Blues Brewery
+687;Boxcar Brewing Company
+688;High Hops Brewery
+689;Crooked Fence Brewing Company
+690;Everybody's Brewing
+691;Anderson Valley Brewing Company
+692;Fiddlehead Brewing Company
+693;Evil Twin Brewing
+694;New Orleans Lager & Ale Brewing ...
+695;Spiteful Brewing Company
+696;Rahr & Sons Brewing Company
+697;18th Street Brewery
+698;Cambridge Brewing Company
+699;Carolina Brewery
+700;Frog Level Brewing Company
+701;Wild Wolf Brewing Company
+702;COOP Ale Works
+703;Seventh Son Brewing Company
+704;Oasis Texas Brewing Company
+705;Vander Mill Ciders
+706;St. Julian Winery
+707;Pedernales Brewing Company
+708;Mother's Brewing
+709;Modern Monks Brewery
+710;Two Beers Brewing Company
+711;Snake River Brewing Company
+712;Capital Brewery
+713;Anthem Brewing Company
+714;Goodlife Brewing Co.
+715;Breakside Brewery
+716;Goose Island Brewery Company
+717;Burnside Brewing Co.
+718;Hop Valley Brewing Company
+719;Worthy Brewing Company
+720;Occidental Brewing Company
+721;Fearless Brewing Company
+722;Upland Brewing Company
+723;Mehana Brewing Co.
+724;Hawai'i Nui Brewing Co.
+725;People's Brewing Company
+726;Fort George Brewery
+727;Branchline Brewing Company
+728;Kalona Brewing Company
+729;Modern Times Beer
+730;Temperance Beer Company
+731;Wisconsin Brewing Company
+732;Crow Peak Brewing Company
+733;Grapevine Craft Brewery
+734;Buffalo Bayou Brewing Company
+735;Texian Brewing Co.
+736;Orpheus Brewing
+737;Forgotten Boardwalk
+738;Laughing Dog Brewing Company
+739;Bozeman Brewing Company
+740;Big Choice Brewing
+741;Big Storm Brewing Company
+742;Carton Brewing Company
+743;Midnight Sun Brewing Company
+744;Fat Head's Brewery
+745;Refuge Brewery
+746;Chatham Brewing
+747;DC Brau Brewing Company
+748;Geneva Lake Brewing Company
+749;Rochester Mills Brewing Company
+750;Cape Ann Brewing Company
+751;Borderlands Brewing Company
+752;College Street Brewhouse and Pub
+753;Joseph James Brewing Company
+754;Harpoon Brewery
+755;Back East Brewing Company
+756;Champion Brewing Company
+757;Devil's Backbone Brewing Company
+758;Newburgh Brewing Company
+759;Wiseacre Brewing Company
+760;Golden Road Brewing
+761;New Republic Brewing Company
+762;Infamous Brewing Company
+763;Two Henrys Brewing Company
+764;Lift Bridge Brewing Company
+765;Lucky Town Brewing Company
+766;Quest Brewing Company
+767;Creature Comforts
+768;Half Full Brewery
+769;Southampton Publick House
+770;Chapman's Brewing
+771;Barrio Brewing Company
+772;Santa Cruz Mountain Brewing
+773;Frankenmuth Brewery
+774;Meckley's Cidery
+775;Stillwater Artisanal Ales
+776;Finch's Beer Company
+777;South Austin Brewery
+778;Bauhaus Brew Labs
+779;Ozark Beer Company
+780;Mountain Town Brewing Company 
+781;Otter Creek Brewing
+782;The Brewer's Art
+783;Denver Beer Company
+784;Ska Brewing Company
+785;Tractor Brewing Company
+786;Peak Organic Brewing Company
+787;Cape Cod Beer
+788;Long Trail Brewing Company
+789;Great Raft Brewing Company
+790;Alaskan Brewing Company
+791;Notch Brewing Company
+792;The Alchemist
+793;Three Notch'd Brewing Company
+794;Portside Brewery
+796;Montauk Brewing Company
+797;Indeed Brewing Company
+798;Berkshire Brewing Company
+799;Foolproof Brewing Company
+800;Headlands Brewing Company
+801;Bolero Snort Brewery
+802;Thunderhead Brewing Company
+803;Defiance Brewing Company
+804;Milwaukee Brewing Company
+805;Catawba Island Brewing
+806;Back Forty Beer Company
+807;Four Corners Brewing Company
+808;Saint Archer Brewery
+809;Rogue Ales
+810;Hale's Ales
+811;Tommyknocker Brewery
+812;Baxter Brewing Company
+813;Northampton Brewery
+814;Black Shirt Brewing Company
+815;Wachusett Brewing Company
+816;Widmer Brothers Brewing Company
+817;Hop Farm Brewing Company
+818;Liquid Hero Brewery
+819;Matt Brewing Company
+820;Boston Beer Company
+821;Old Forge Brewing Company
+822;Utah Brewers Cooperative
+823;Magic Hat Brewing Company
+824;Blue Hills Brewery
+825;Night Shift Brewing
+826;Beach Brewing Company
+827;Payette Brewing Company
+828;Brew Bus Brewing
+829;Sockeye Brewing Company
+830;Pine Street Brewery
+831;Dirty Bucket Brewing Company
+832;Jackalope Brewing Company
+833;Slanted Rock Brewing Company
+834;Piney River Brewing Company
+835;Cutters Brewing Company
+836;Iron Hill Brewery & Restaurant
+837;Marshall Wharf Brewing Company
+838;Banner Beer Company
+839;Dick's Brewing Company
+840;Claremont Craft Ales
+841;Rivertown Brewing Company
+842;Voodoo Brewery
+843;D.L. Geary Brewing Company
+844;Pisgah Brewing Company
+845;Neshaminy Creek Brewing Company
+846;Morgan Street Brewery
+847;Half Acre Beer Company
+848;The Just Beer Project
+849;The Bronx Brewery
+850;Dead Armadillo Craft Brewing
+851;Catawba Brewing Company
+852;La Cumbre Brewing Company
+853;David's Ale Works
+854;The Traveler Beer Company
+855;Fargo Brewing Company
+856;Big Sky Brewing Company
+857;Nebraska Brewing Company
+858;Uncle John's Fruit House Winery
+859;Wormtown Brewery
+860;Due South Brewing Company
+861;Palisade Brewing Company
+862;KelSo Beer Company
+863;Hardywood Park Craft Brewery
+864;Wolf Hills Brewing Company
+865;Lavery Brewing Company
+866;Manzanita Brewing Company
+867;Fullsteam Brewery
+868;Four Horsemen Brewing Company
+869;Hinterland Brewery
+870;Central Coast Brewing Company
+871;Westfield River Brewing Company
+872;Elevator Brewing Company
+873;Aslan Brewing Company
+874;Kulshan Brewery
+875;Pikes Peak Brewing Company
+876;Manayunk Brewing Company
+877;Buckeye Brewing
+878;Daredevil Brewing Company
+879;NoDa Brewing Company
+880;Aviator Brewing Company
+881;Wild Onion Brewing Company
+882;Hilliard's Beer
+883;Mikkeller
+884;Bohemian Brewery
+885;Great River Brewery
+886;Mustang Brewing Company
+887;Airways Brewing Company
+888;21st Amendment Brewery
+889;Eddyline Brewery & Restaurant
+890;Pizza Port Brewing Company
+892;Spring House Brewing Company
+893;7venth Sun
+894;Astoria Brewing Company
+895;Maui Brewing Company
+896;RoughTail Brewing Company
+897;Lucette Brewing Company
+898;Bold City Brewery
+899;Grey Sail Brewing of Rhode Island
+900;Blue Blood Brewing Company
+901;Swashbuckler Brewing Company
+902;Blue Mountain Brewery
+903;Starr Hill Brewery
+904;Westbrook Brewing Company
+905;Shipyard Brewing Company
+906;Revolution Brewing
+907;Natian Brewery
+908;Alltech's Lexington Brewing Company
+909;Oskar Blues Brewery (North Carol...
+910;Orlison Brewing Company
+911;Breckenridge Brewery
+912;Santa Fe Brewing Company
+913;Miami Brewing Company
+914;Schilling & Company
+915;Hops & Grain Brewery
+916;White Flame Brewing Company
+917;Ruhstaller Beer Company
+918;Saugatuck Brewing Company
+919;Moab Brewery
+920;Macon Beer Company
+921;Amnesia Brewing Company
+922;Wolverine State Brewing Company
+923;Red Tank Cider Company
+924;Cascadia Ciderworks United
+925;Fate Brewing Company
+926;Lazy Monk Brewing
+927;Bitter Root Brewing
+928;10 Barrel Brewing Company
+929;Tamarack Brewing Company
+930;New England Brewing Company
+931;Seattle Cider Company
+932;Straight to Ale
+933;Austin Beerworks
+935;Coastal Empire Beer Company
+936;Jack's Hard Cider (Hauser Estate...
+937;Boulder Beer Company
+938;Coalition Brewing Company
+939;Sanitas Brewing Company
+940;Gore Range Brewery
+941;Redstone Meadery
+942;Blue Dog Mead
+943;Hess Brewing Company
+944;Wynkoop Brewing Company
+945;Ciderboys
+946;Armadillo Ale Works
+947;Roanoke Railhouse Brewery
+948;Schlafly Brewing Company
+949;Asher Brewing Company
+950;Lost Rhino Brewing Company
+951;North Country Brewing Company
+952;Seabright Brewery
+953;French Broad Brewery
+954;Angry Orchard Cider Company
+955;Two Roads Brewing Company
+956;Southern Oregon Brewing Company
+957;Brooklyn Brewery
+958;The Right Brain Brewery
+959;Kona Brewing Company
+960;MillKing It Productions
+961;Pateros Creek Brewing Company
+962;O'Fallon Brewery
+963;Marble Brewery
+964;Big Wood Brewery
+965;Howard Brewing Company
+966;Downeast Cider House
+967;Swamp Head Brewery
+968;Mavericks Beer Company
+969;TailGate Beer
+970;Northwest Brewing Company
+971;Dad & Dude's Breweria
+972;Centennial Beer Company
+973;Denali Brewing Company
+974;Deschutes Brewery
+975;Sunken City Brewing Company
+977;The Black Tooth Brewing Company
+978;Kenai River Brewing Company
+979;River North Brewery
+980;Fremont Brewing Company
+981;Armstrong Brewing Company
+982;AC Golden Brewing Company
+983;Big Bend Brewing Company
+984;Good Life Brewing Company
+985;Engine 15 Brewing
+986;Green Room Brewing
+987;Brindle Dog Brewing Company
+988;Peace Tree Brewing Company
+989;Terrapin Brewing Company
+990;Pete's Brewing Company
+991;Okoboji Brewing Company
+992;Crystal Springs Brewing Company
+993;Engine House 9
+994;Tonka Beer Company
+995;Red Hare Brewing Company
+996;Hangar 24 Craft Brewery
+997;Big Elm Brewing
+998;Good People Brewing Company
+999;Heavy Seas Beer
+1000;Telluride Brewing Company
+1001;7 Seas Brewing Company
+1002;Confluence Brewing Company
+1003;Bale Breaker Brewing Company
+1004;The Manhattan Brewing Company
+1005;MacTarnahans Brewing Company
+1006;Stillmank Beer Company
+1007;Redhook Brewery
+1008;Dock Street Brewery
+1009;Blue Point Brewing Company
+1010;Tampa Bay Brewing Company
+1011;Devil's Canyon Brewery
+1012;Stone Coast Brewing Company
+1013;Broken Tooth Brewing Company
+1014;Seven Brides Brewery
+1015;Newburyport Brewing Company
+1016;Dry Dock Brewing Company
+1017;Cans Bar and Canteen
+1018;Sprecher Brewing Company
+1019;Wildwood Brewing Company
+1020;High Noon Saloon And Brewery
+1021;Woodchuck Hard Cider
+1022;Sea Dog Brewing Company
+1024;Carolina Beer & Beverage
+1025;Krebs Brewing Company (Pete's Pl...
+1026;Warbird Brewing Company
+1027;Mudshark Brewing Company
+1028;Spilker Ales
+1029;Wingman Brewers
+1030;Kettle House Brewing Company
+1031;Sherwood Forest Brewers
+1032;Cottrell Brewing
+1033;Arctic Craft Brewery
+1034;Monkey Paw Pub & Brewery
+1035;Crabtree Brewing Company
+1036;Emerald City Beer Company
+1037;Butcher's Brewing
+1038;New South Brewing Company
+1039;Big River Brewing Company
+1040;Twisted Pine Brewing Company
+1041;Flying Dog Brewery
+1042;Uncommon Brewers
+1043;Aspen Brewing Company
+1044;Triangle Brewing Company
+1045;Bomb Beer Company
+1046;Churchkey Can Company
+1047;Intuition Ale Works
+1048;Asheville Brewing Company
+1049;Northwoods Brewpub
+1050;Buckbean Brewing Company
+1051;Dolores River Brewery
+1052;Flat Rock Brewing Company
+1053;Abita Brewing Company
+1054;Mammoth Brewing Company
+1055;Harvest Moon Brewing Company
+1056;Grand Canyon Brewing Company
+1057;Lewis and Clark Brewing Company
+1058;Dundee Brewing Company
+1059;Twin Lakes Brewing Company
+1060;Mother Earth Brewing Company
+1061;Arcadia Brewing Company
+1062;Angry Minnow Brewing Company
+1063;Great Northern Brewing Company
+1064;Pyramid Breweries
+1065;Lancaster Brewing Company
+1066;Upstate Brewing Company
+1067;Moat Mountain Smoke House & Brew...
+1068;Prescott Brewing Company
+1069;Mogollon Brewing Company
+1070;Wind River Brewing Company
+1071;Silverton Brewery
+1072;Mickey Finn's Brewery
+1073;Covington Brewhouse
+1074;Dave's Brewfarm
+1075;Ukiah Brewing Company
+1076;Butternuts Beer and Ale
+1077;Sleeping Lady Brewing Company

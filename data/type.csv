@@ -1,0 +1,135 @@
+id_type;categorie;specification
+1;Vin;Blanc
+2;Vin;Rouge
+3;Vin;Rosé
+4;Vin;
+5;Spiritueux;Rhum
+6;Spiritueux;Whisky
+7;Spiritueux;Gin
+8;Spiritueux;Génépi
+9;Spiritueux;Anisé
+10;Spiritueux;Liqueur
+11;Spiritueux;Cognac
+12;Spiritueux;Boisson Spiritueuse
+13;Vin;Ambré
+14;Spiritueux;Chartreuse
+15;Spiritueux;Vodka
+16;Spiritueux;Absinthe
+17;Spiritueux;Armagnac
+18;Spiritueux;Porto
+19;Spiritueux;Liqueurs arômatisées
+20;Spiritueux;Whisky IGP
+21;Vin;Orange
+22;Spiritueux;Apéritif
+23;Spiritueux;Mezcal
+24;Spiritueux;Eaux de Vie
+25;Spiritueux;Calvados
+26;Spiritueux;Ratafia de Champagne
+27;Spiritueux;Cachaça
+28;Spiritueux;Tequila
+29;Spiritueux;Saké
+30;Spiritueux;Bas-Armagnac AOC
+31;Bière;American Pale Lager
+32;Bière;American Pale Ale (APA)
+33;Bière;American IPA
+34;Bière;American Double / Imperial IPA
+36;Bière;Oatmeal Stout
+38;Bière;American Porter
+41;Bière;Saison / Farmhouse Ale
+44;Bière;Belgian IPA
+46;Bière;Cider
+50;Bière;Baltic Porter
+51;Bière;Tripel
+52;Bière;American Barleywine
+53;Bière;Winter Warmer
+54;Bière;American Stout
+56;Bière;Fruit / Vegetable Beer
+62;Bière;English Strong Ale
+66;Bière;American Black Ale
+67;Bière;Belgian Dark Ale
+71;Bière;American Blonde Ale
+72;Bière;American Amber / Red Ale
+73;Bière;Berliner Weissbier
+75;Bière;American Brown Ale
+80;Bière;American Pale Wheat Ale
+83;Bière;Belgian Strong Dark Ale
+86;Bière;Kölsch
+89;Bière;English Pale Ale
+93;Bière;American Amber / Red Lager
+101;Bière;English Barleywine
+102;Bière;Milk / Sweet Stout
+104;Bière;German Pilsener
+105;Bière;Pumpkin Ale
+106;Bière;Belgian Pale Ale
+107;Bière;American Pilsner
+110;Bière;American Wild Ale
+112;Bière;English Brown Ale
+120;Bière;Altbier
+131;Bière;California Common / Steam Beer
+132;Bière;Gose
+137;Bière;Cream Ale
+141;Bière;Vienna Lager
+157;Bière;Witbier
+165;Bière;American Double / Imperial Stout
+186;Bière;Munich Helles Lager
+191;Bière;Schwarzbier
+199;Bière;Märzen / Oktoberfest
+219;Bière;Extra Special / Strong Bitter (ESB)
+220;Bière;Rye Beer
+229;Bière;Euro Dark Lager
+235;Bière;Hefeweizen
+237;Bière;Foreign / Export Stout
+247;Bière;Other
+254;Bière;English India Pale Ale (IPA)
+267;Bière;Czech Pilsener
+271;Bière;American Strong Ale
+339;Bière;Mead
+344;Bière;Euro Pale Lager
+352;Bière;American White IPA
+355;Bière;Dortmunder / Export Lager
+364;Bière;Irish Dry Stout
+368;Bière;Scotch Ale / Wee Heavy
+377;Bière;Munich Dunkel Lager
+387;Bière;Radler
+390;Bière;Bock
+402;Bière;English Dark Mild Ale
+416;Bière;Irish Red Ale
+423;Bière;Rauchbier
+424;Bière;Bière de Garde
+426;Bière;Doppelbock
+434;Bière;Dunkelweizen
+435;Bière;Belgian Strong Pale Ale
+436;Bière;Dubbel
+443;Bière;Quadrupel (Quad)
+472;Bière;Russian Imperial Stout
+489;Bière;English Pale Mild Ale
+495;Bière;Maibock / Helles Bock
+499;Bière;Herbed / Spiced Beer
+538;Bière;American Adjunct Lager
+593;Bière;Scottish Ale
+597;Bière;
+599;Bière;Smoked Beer
+654;Bière;Light Lager
+745;Bière;Abbey Single Ale
+809;Bière;Roggenbier
+822;Bière;Kristalweizen
+884;Bière;
+897;Bière;
+970;Bière;American Dark Wheat Ale
+973;Bière;English Stout
+980;Bière;Old Ale
+1035;Bière;American Double / Imperial Pilsner
+1067;Bière;Flanders Red Ale
+1149;Bière;Keller Bier / Zwickel Bier
+1151;Bière;American India Pale Lager
+1320;Bière;Shandy
+1368;Bière;Wheat Ale
+1392;Bière;American Malt Liquor
+1545;Bière;English Bitter
+1585;Bière;
+1586;Bière;
+1681;Bière;Chile Beer
+1931;Bière;Grisette
+2081;Bière;Flanders Oud Bruin
+2216;Bière;Braggot
+2297;Bière;Low Alcohol Beer

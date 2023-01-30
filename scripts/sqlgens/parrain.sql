@@ -1,0 +1,14 @@
+UPDATE client SET parrain = 'Curabitur@facilisisvitaeorci.com' WHERE mail = 'leo@primisinfaucibus.edu';
+UPDATE client SET parrain = 'Fusce@dignissim.net' WHERE mail = 'egestas@faucibusidlibero.org';
+UPDATE client SET parrain = 'Fusce@dignissim.net' WHERE mail = 'sed.est.Nunc@ornareegestas.org';
+UPDATE client SET parrain = 'id.enim.Curabitur@cursusdiam.co.uk' WHERE mail = 'iaculis.enim.sit@Morbineque.edu';
+UPDATE client SET parrain = 'id.enim.Curabitur@cursusdiam.co.uk' WHERE mail = 'Nunc.lectus.pede@liberomaurisaliquam.ca';
+UPDATE client SET parrain = 'Suspendisse@malesuadavelvenenatis.net' WHERE mail = 'Curae@eu.ca';
+UPDATE client SET parrain = 'Suspendisse@malesuadavelvenenatis.net' WHERE mail = 'Etiam.gravida@pharetranibh.org';
+UPDATE client SET parrain = 'leo@primisinfaucibus.edu' WHERE mail = 'iaculis.enim.sit@Morbineque.edu';
+UPDATE client SET parrain = 'Curabitur@facilisisvitaeorci.com' WHERE mail = 'hendrerit.neque.In@nislelementum.ca';
+UPDATE client SET parrain = 'Suspendisse@malesuadavelvenenatis.net' WHERE mail = 'diam@purusmaurisa.co.uk';
+UPDATE client SET parrain = 'ultrices@inconsequat.co.uk' WHERE mail = 'quis@semperrutrum.edu';
+UPDATE client SET parrain = 'Fusce@dignissim.net' WHERE mail = 'iaculis.enim.sit@Morbineque.edu';
+UPDATE client SET parrain = 'Curabitur@facilisisvitaeorci.com' WHERE mail = 'mi.lacinia@orci.org';
+UPDATE client SET parrain = 'id.enim.Curabitur@cursusdiam.co.uk' WHERE mail = 'magna.Sed.eu@tempordiam.com';
